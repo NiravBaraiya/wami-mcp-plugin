@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "MCP Tool",
+  "name_for_model": "mcp_tool",
+  "description_for_human": "Upload WFLX files and interact with model predictions.",
+  "description_for_model": "A tool to upload WFLX files and use model context protocol for predictions.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:5100/openapi.json"
+  },
+  "logo_url": "http://localhost:5100/logo.png",
+  "contact_email": "your@email.com",
+  "legal_info_url": "http://localhost:5100/legal"
+}
