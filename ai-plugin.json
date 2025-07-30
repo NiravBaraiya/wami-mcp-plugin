@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://raw.githubusercontent.com/NiravBaraiya/wami-mcp-plugin/main/openapi.json"
+    "url": "https://a1f640ce8bd9.ngrok-free.app/.well-known/openapi.json"
   },
   "logo_url": "https://raw.githubusercontent.com/NiravBaraiya/wami-mcp-plugin/main/assets/logo.png",
   "contact_email": "your@email.com",
